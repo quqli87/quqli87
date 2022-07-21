@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building a website with Go and HUGO
 - 🌱 I’m currently learning golang and bash scripting
 - 💬 Ask me about linux
-- 📫 How to reach me: linkedin[https://www.linkedin.com/in/karol-kuli%C5%9B1178/]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karol-kuli%C5%9B1178)
 - 😄 Pronouns: hi/his
 
 
